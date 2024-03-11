@@ -22,7 +22,7 @@ fi`
 ```bash
 if [ condition1 ]; then; 
   Commands
-elif [ condition2 ]; then
+elif [ condition2 ]
   Commands
 else:
   Commands
